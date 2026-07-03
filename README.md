@@ -53,8 +53,6 @@ I build efficient and scalable web applications using modern technologies.With e
 
 ## Projects
 
-All the following projects were developed by me and are showcased on **[LAOSPROGROM.COM](https://www.laosprogram.com)**:
-
 - **[RMS](https://r.laosprogram.com)**: A Restaurant Management System designed to streamline operations and improve service.
 
 - **[TOULAKIT](https://toulakit.com)**: A IT sales management system that helps track sales, manage inventory, and improve customer experience.
