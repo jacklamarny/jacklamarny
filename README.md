@@ -57,9 +57,7 @@ All the following projects were developed by me and are showcased on **[LAOSPROG
 
 - **[RMS](https://r.laosprogram.com)**: A Restaurant Management System designed to streamline operations and improve service.
 
-- **[LarmanyPOS](https://p.laosprogram.com)**: A point-of-sale program that facilitates sales transactions and inventory management for retail businesses.
-
-- **[OneCofe](https://github.com/jacklarmany/OneCofe)**: A coffee sales management system that helps track sales, manage inventory, and improve customer experience.
+- **[TOULAKIT](https://toulakit.com)**: A IT sales management system that helps track sales, manage inventory, and improve customer experience.
 
 - **[M-PawnShop](https://github.com/jacklarmany/M-PawnShop)**: A pawn shop management system that allows easy tracking of pawned items, customer records, and transactions.
 
