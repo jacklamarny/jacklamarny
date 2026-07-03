@@ -3,13 +3,13 @@
 [![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jlarmany)
 
 
-# 👋 Hi, I'm Jack Larmany
+# 👋 Hi, I'm Jack Lamarny
 
 ## Full-Stack Developer & Backend Expert
 
 I build efficient and scalable web applications using modern technologies.With extensive experience in both frontend and backend development, I create frontends (user interfaces) and backends that work together perfectly.
 
-- 🚀 **Currently working on full-stack projects at [cyberia.la](https://cyberia.la)**
+- 🚀 **Currently working at [cyberia.la](https://cyberia.la)**
 - 👍 **Expertise: React, Yii2, and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
@@ -63,8 +63,7 @@ All the following projects were developed by me and are showcased on **[LAOSPROG
 
 - **[M-PawnShop](https://github.com/jacklarmany/M-PawnShop)**: A pawn shop management system that allows easy tracking of pawned items, customer records, and transactions.
 
-- **[MPMS](https://gh.laosprogram.com)**: A guesthouse management system that enables easy tracking of reservations, guest records, and transactions.
-
+- **[LAPOSPOS](https://lapospos.com)**: A modern cloud-based Point of Sale (POS) and inventory management system that helps businesses streamline sales, manage stock, track customers, process purchases, and generate real-time business reports.
 
 These projects is highlight my skills in web development, particularly in creating user-friendly interfaces and robust back-end systems.
 
@@ -72,10 +71,11 @@ Technologies Used
 
 - Yii2
 - React
-- Node.js
+- NestJS
 - Flutter
 - MySQL
 - Bootstrap
+- Tailwindcss
 - MUI
 - JavaScript
 - HTML/CSS
