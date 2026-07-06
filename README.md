@@ -53,13 +53,11 @@ I build efficient and scalable web applications using modern technologies.With e
 
 ## Projects
 
-- **[RMS](https://r.laosprogram.com)**: A Restaurant Management System designed to streamline operations and improve service.
-
-- **[TOULAKIT](https://toulakit.com)**: A IT sales management system that helps track sales, manage inventory, and improve customer experience.
+- **[TOULAKIT.COM](https://toulakit.com)**: A IT sales management system that helps track sales, manage inventory, and improve customer experience.
 
 - **[M-PawnShop](https://github.com/jacklarmany/M-PawnShop)**: A pawn shop management system that allows easy tracking of pawned items, customer records, and transactions.
 
-- **[LAPOSPOS](https://lapospos.com)**: A modern cloud-based Point of Sale (POS) and inventory management system that helps businesses streamline sales, manage stock, track customers, process purchases, and generate real-time business reports.
+- **[LAPOSPOS.COM](https://lapospos.com)**: A modern cloud-based Point of Sale (POS) and inventory management system that helps businesses streamline sales, manage stock, track customers, process purchases, and generate real-time business reports.
 
 These projects is highlight my skills in web development, particularly in creating user-friendly interfaces and robust back-end systems.
 
