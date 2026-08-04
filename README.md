@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Jack Lamarny
 
-## Full-Stack Software Engineer | React • NestJS • Flutter • FastAPI
+## Full-Stack Developer | React • NestJS • Flutter • FastAPI
 
 I'm a Full-Stack Developer with 7+ years of experience building scalable web applications, REST APIs, and cloud-based business systems. I enjoy designing clean architectures, optimizing backend performance, and creating modern user experiences using React, NestJS, FastAPI, Flutter, and MySQL.
 
