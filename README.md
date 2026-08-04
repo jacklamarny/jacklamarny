@@ -1,6 +1,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Jack_Larmany-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8562095358959)
-[![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jlarmany)
+[![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jacklamarny)
 
 
 # 👋 Hi, I'm Jack Lamarny
