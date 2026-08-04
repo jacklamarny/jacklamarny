@@ -10,7 +10,7 @@
 I build efficient and scalable web applications using modern technologies.With extensive experience in both frontend and backend development, I create frontends (user interfaces) and backends that work together perfectly.
 
 - 🚀 **Currently working at [cyberia.la](https://cyberia.la)**
-- 👍 **Expertise: React, Yii2, and building APIs**
+- 👍 **Expertise: React, Yii2, NestJS and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
 - 🧑‍💻 **I have over 7 years of experience in web development**
@@ -19,7 +19,7 @@ I build efficient and scalable web applications using modern technologies.With e
 ## 🛠 Skills
 
 ### Frontend:
-- **React, Bootstrap, MUI, Tailwindcss**: Building dynamic, responsive user interfaces
+- **React, Bootstrap, MUI, Tailwind CSS**: Building dynamic, responsive user interfaces
 - **JavaScript/HTML/CSS**: Core web technologies for creating interactive UIs
 - **Flutter**: Modern UI toolkit from Google for building cross-platform apps (iOS, Android, Web, Desktop) with a single Dart codebase.
 
@@ -46,6 +46,7 @@ I build efficient and scalable web applications using modern technologies.With e
 - **PhpStorm**: IDE for PHP development with advanced features.
 - **VS Code**: Code editor with extensive support for many programming languages..
 - **Postman**: Tool for testing and documenting APIs.
+- **Antigravity**: Tool for for many programming languages and AI agent.
 - **ThunderClient**: Hand-crafted lightweight Rest Client for testing APIs.
 - **Cursor**: The AI Code editor.
 
