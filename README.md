@@ -54,7 +54,7 @@ I build efficient and scalable web applications using modern technologies.With e
 
 ## Projects
 
-- **[TOULAKIT.COM](https://toulakit.com)**: A IT sales management system that helps track sales, manage inventory, and improve customer experience.
+- **[TOULAKIT.COM](https://toulakit.com)**: A IT sales management system that helps track sales, Reports, manage inventory and improve customer experience.
 
 - **[LAPOSPOS.COM](https://lapospos.com)**: A modern cloud-based Point of Sale (POS) and inventory management system that helps businesses streamline sales, manage stock, track customers, process purchases, and generate real-time business reports.
 
@@ -62,16 +62,17 @@ These projects is highlight my skills in web development, particularly in creati
 
 Technologies Used
 
+- NestJS
 - Yii2
 - React
-- NestJS
 - Flutter
-- MySQL
+- MySQL/
 - Bootstrap
-- Tailwindcss
+- Tailwind CSS
 - MUI
 - JavaScript
 - HTML/CSS
+- Prisma
 
 
 ## Contact Me
