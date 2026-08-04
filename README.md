@@ -82,12 +82,6 @@ These projects demonstrate my experience in building scalable SaaS applications,
 <img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,flutter,fastapi,php,mysql,postgres,docker,nginx,git,github,linux,ts,js" />
 </p>
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacklamarny&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacklamarny&layout=compact)
-
 
 ## Contact Me
 
