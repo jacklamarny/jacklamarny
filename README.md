@@ -68,8 +68,6 @@ I'm a Full-Stack Developer with 7+ years of experience building scalable web app
 
 # My Work Achievements
 
-## Projects
-
 - **[TOULAKIT.COM](https://toulakit.com)**: A IT sales management system that helps track sales, Reports, manage inventory and improve customer experience.
 
 - **[LAPOSPOS.COM](https://lapospos.com)**: A modern cloud-based Point of Sale (POS) and inventory management system that helps businesses streamline sales, manage stock, track customers, process purchases, and generate real-time business reports.
