@@ -5,11 +5,11 @@
 
 # 👋 Hi, I'm Jack Lamarny
 
-## Full-Stack Developer & Backend Expert
+## Full-Stack Software Engineer | React • NestJS • Flutter • FastAPI
 
-I build efficient and scalable web applications using modern technologies.With extensive experience in both frontend and backend development, I create frontends (user interfaces) and backends that work together perfectly.
+I'm a Full-Stack Developer with 7+ years of experience building scalable web applications, REST APIs, and cloud-based business systems. I enjoy designing clean architectures, optimizing backend performance, and creating modern user experiences using React, NestJS, FastAPI, Flutter, and MySQL.
 
-- 🚀 **Currently working at [cyberia.la](https://cyberia.la)**
+- 🚀 **Software Engineer at Cyberia.la at [cyberia.la](https://cyberia.la)**
 - 👍 **Expertise: React, Yii2, NestJS and building APIs**
 - 🎓 **Continuously learning new technologies and refining my skills in backend optimization**
 - ❤️ **Tech enthusiast and problem-solver**
@@ -24,31 +24,47 @@ I build efficient and scalable web applications using modern technologies.With e
 - **Flutter**: Modern UI toolkit from Google for building cross-platform apps (iOS, Android, Web, Desktop) with a single Dart codebase.
 
 ### Backend:
-- **PHP**: Extensive experience in server-side programming
-- **Yii2**: is well-known as a framework for full-stack web development, and powerful API design capabilities.
-- **Node.js**: JavaScript runtime environment that lets us create servers, web apps, command line tools and scripts.
-- **NestJS**: Using for developing APis scalable and maintainable backend systems using TypeScript.
+- **NestJS**: Building scalable REST APIs with TypeScript. TypeScript.
+- **PHP**: 7+ years of backend development experience.
+- **Yii2**: Building enterprise web applications and REST APIs.
+- **Node.js**: Developing backend services and server-side applications.
 - **fastAPI**: Using for developing APis scalable and maintainable backend systems using Python.
 
 ### Database:
-- **MySQL**:  is the database used to store and manage data
-- **PostgresSQL**:  is the database used to store and manage data very fast.
+- **MySQL** – Database design, optimization, indexing, and query performance.
+- **PostgreSQL** – Relational database development and advanced SQL.
+- **Prisma ORM** – Type-safe database access and schema management.
 
 ### Web Servers:
 - **Apache**: Proficient in configuring and managing Apache servers
 - **NginX**: Proficient in setting up and managing Nginx servers
 
-### Version Control:
-- **Git**: Version control system for tracking changes in code.
-- **GitHub**: Platform for hosting repositories and collaborating on projects using branching, merging, and CI/CD pipelines with Sourcetree.
-
-## 🛠 Tools:
-- **PhpStorm**: IDE for PHP development with advanced features.
-- **VS Code**: Code editor with extensive support for many programming languages..
-- **Postman**: Tool for testing and documenting APIs.
-- **Antigravity**: Tool for for many programming languages and AI agent.
-- **ThunderClient**: Hand-crafted lightweight Rest Client for testing APIs.
-- **Cursor**: The AI Code editor.
+### Version Control & CI/CD
+- **Git** – Source code management and branching strategies.
+- **GitHub** – Pull requests, code reviews, and repository management.
+- **GitHub Actions** – Automated build, test, and deployment pipelines.
+- **CI/CD** – Deploying applications to Linux VPS using SSH, PM2, and Nginx.
+- **Sourcetree** – Git GUI for repository management.
+  
+### DevOps
+- Ubuntu Server
+- Nginx
+- Apache
+- PM2
+- Docker
+- GitHub Actions
+- Cloudflare
+- VPS Deployment
+  
+## Tools
+- VS Code
+- PhpStorm
+- Postman
+- Thunder Client
+- Cursor
+- Antigravity
+- Git
+- Sourcetree
 
 # My Work Achievements
 
@@ -58,21 +74,13 @@ I build efficient and scalable web applications using modern technologies.With e
 
 - **[LAPOSPOS.COM](https://lapospos.com)**: A modern cloud-based Point of Sale (POS) and inventory management system that helps businesses streamline sales, manage stock, track customers, process purchases, and generate real-time business reports.
 
-These projects is highlight my skills in web development, particularly in creating user-friendly interfaces and robust back-end systems.
+These projects demonstrate my experience in building scalable SaaS applications, REST APIs, cloud infrastructure, inventory management systems, and modern web applications.
 
-Technologies Used
+## Tech Stack
 
-- NestJS
-- Yii2
-- React
-- Flutter
-- MySQL/
-- Bootstrap
-- Tailwind CSS
-- MUI
-- JavaScript
-- HTML/CSS
-- Prisma
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,flutter,fastapi,php,mysql,postgres,docker,nginx,git,github,linux,ts,js" />
+</p>
 
 
 ## Contact Me
@@ -82,3 +90,5 @@ Don’t hesitate to reach out if you have any questions or want to chat! I'm her
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Jack_Larmany-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8562095358959)
 [![Facebook](https://img.shields.io/badge/Facebook-jlarmany-%231877F2?style=for-the-badge&logo=facebook)](https://facebook.com/jacklamarny)
+
+![](https://komarev.com/ghpvc/?username=jacklamarny&style=for-the-badge)
